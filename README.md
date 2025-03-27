@@ -19,9 +19,9 @@
      ```
 
 
-## Available Scripts
+## Scripts
 
 The repository contains two scripts:
 
 1. **update_occupation.py** - Updates applicant occupation data
-2. **add_comment.py** - Add coment API
+2. **add_comment.py** - Add kyc comment API
